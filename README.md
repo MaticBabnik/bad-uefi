@@ -13,7 +13,7 @@ To convert a video run:
 ```
 node encoder encode <input file> <output file> -w <out width> -h <out height>
 ```
-A sane default mode is `g8c` (graphic mode, 8 bit depth, color)
+A sensible default mode is `g8c` (graphic mode, 8 bit depth, color).
 For more info on the modes and framerate see the [UEFIV readme](encoder/uefiv.md).
 
 To convert an audio track run:
