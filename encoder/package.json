@@ -1,0 +1,13 @@
+{
+  "name": "uefiv-encoder",
+  "version": "1.0.0",
+  "description": "Converts pictures/videos to a format readable by bad-uefi",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Matic Babnik",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "jimp": "^0.16.2"
+  }
+}

@@ -1,0 +1,22 @@
+# ISO images
+**/*.iso
+# EFI executables
+**/*.efi
+# QEMU firmware
+**/*.fd
+# Video / audio files
+**/*.uefiv
+**/*.uefia
+**/*.webm
+
+
+# node.js
+node_modules
+package-lock.json
+
+# rust
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
