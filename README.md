@@ -38,7 +38,7 @@ You can also run it inside QEMU.
 
 3. Run `./run-qemu.sh`
 
-4. ~~Profit???~~
+4. Profit???
 
 ## TODO
 - [ ] Implement `t4` color mode in the encoder
